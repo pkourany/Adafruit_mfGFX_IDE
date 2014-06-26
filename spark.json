@@ -1,0 +1,7 @@
+{
+	"name": "Adafruit_mfGFX",
+	"author": "Paul Kourany / Adafruit",
+	"version": "1.0.1",
+	"license": "Adafruit",
+	"description": "Adafruit mfGFX multifont library for Spark"
+}
