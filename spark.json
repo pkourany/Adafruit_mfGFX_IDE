@@ -3,5 +3,5 @@
 	"author": "Paul Kourany / Adafruit",
 	"version": "v1.0.2",
 	"license": "Adafruit",
-	"description": "Adafruit mfGFX multifont library for Spark"
+	"description": "Adafruit mfGFX multifont library for Particle Devices"
 }
