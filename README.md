@@ -2,6 +2,7 @@ Adafruit_mfGFX Library
 ====================== 
 
 Multifont GFX library is adapted from Adafruit_GFX library by Paul Kourany
+
 v1.0.0, May 2014 Initial Release
 
 v1.0.1, June 2014 Font Compilation update
