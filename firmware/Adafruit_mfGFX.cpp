@@ -546,6 +546,17 @@ void Adafruit_GFX::setRotation(uint8_t x) {
   }
 }
 
+// Return width of char c in pixels including kern pixel value (default is 1)
+int16_t Adafruit_GFX::charWidth(unsigned char c) {
+
+  if (c < fontStart || c > fontEnd)
+    c = 0;
+  else
+    c -= fontStart;
+
+  return (fontDesc[c].width + fontKern);
+}
+
 // Return the size of the display (per current rotation)
 int16_t Adafruit_GFX::width(void) {
   return _width;
