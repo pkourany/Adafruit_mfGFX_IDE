@@ -58,6 +58,7 @@ class Adafruit_GFX : public Print {
 
   virtual size_t write(uint8_t);
 
+  int16_t charWidth(unsigned char c);
 
   int16_t
     height(void),
