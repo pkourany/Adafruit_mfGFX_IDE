@@ -1,10 +1,10 @@
 {
 	"name": "Adafruit_mfGFX",
 	"author": "Paul Kourany / Adafruit",
-	"version":
-	"v1.0.0, May 2014 Initial Release
-	v1.0.1, June 2014 Font Compilation update
-	v1.0.2, Aug 2015 Added charWidth(char) function to return char width in pixels",
+	"version": "v1.0.2",
 	"license": "Adafruit",
-	"description": "Adafruit mfGFX multifont library for Spark"
+	"description": "Adafruit mfGFX multifont library for Spark
+	v1.0.0, May 2014 Initial Release
+	v1.0.1, June 2014 Font Compilation update
+	v1.0.2, Aug 2015 Added charWidth(char) function to return char width in pixels"
 }
