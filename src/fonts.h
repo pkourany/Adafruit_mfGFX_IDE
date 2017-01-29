@@ -12,7 +12,7 @@ Please read README.pdf for details
 #ifndef _fonts_h
 #define _fonts_h
 
-#include "application.h"
+#include "Particle.h"
 
 //Font selection for compiling - comment out or uncomment definitions as required
 //NOTE: GLCDFONT is default font and always included

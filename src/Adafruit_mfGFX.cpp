@@ -43,7 +43,6 @@ POSSIBILITY OF SUCH DAMAGE.
 #include "fonts.h"
 
 
-#define pgm_read_byte(addr) (*(const uint8_t *)(addr))
 
 
 Adafruit_GFX::Adafruit_GFX(int16_t w, int16_t h):

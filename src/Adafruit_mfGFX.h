@@ -10,7 +10,7 @@ Please read README.pdf for details
 #ifndef _ADAFRUIT_GFX_H
 #define _ADAFRUIT_GFX_H
 
-#include "application.h"
+#include "Particle.h"
 #include "fonts.h"
 
 
