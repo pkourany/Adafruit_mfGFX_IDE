@@ -43,6 +43,8 @@ POSSIBILITY OF SUCH DAMAGE.
 #include "fonts.h"
 
 
+#define swap(a, b) { int16_t t = a; a = b; b = t; }
+
 
 
 Adafruit_GFX::Adafruit_GFX(int16_t w, int16_t h):
