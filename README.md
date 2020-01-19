@@ -7,6 +7,7 @@ Multifont GFX library is adapted from Adafruit_GFX library by Paul Kourany
 - v1.0.1, June 2014 Font Compilation update
 - v1.0.2, Aug 2015 Added charWidth(char) function to return char width in pixels
 - v1.0.3, Jan 2016 update to Libraries V2.0
+- V1.0.4 Jan 2020 Move swap() definition from .h to .cpp file
 
 This library supports any compatible Adafruit_GFX display driver. The 
 free TheDotFactory Windows program is recommended for creating font data 
